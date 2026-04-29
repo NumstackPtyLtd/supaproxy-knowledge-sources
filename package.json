@@ -25,6 +25,6 @@
     "@types/node": "^22.0.0",
     "typescript": "^5.8.0"
   },
-  "license": "UNLICENSED",
-  "private": true
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/NumstackPtyLtd/supaproxy-knowledge-sources" },
 }
