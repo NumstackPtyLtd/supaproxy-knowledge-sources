@@ -17,7 +17,9 @@
     "clean": "rm -rf dist",
     "prepublishOnly": "pnpm build"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "pino": "^9.0.0"
   },
@@ -26,5 +28,8 @@
     "typescript": "^5.8.0"
   },
   "license": "MIT",
-  "repository": { "type": "git", "url": "https://github.com/NumstackPtyLtd/supaproxy-knowledge-sources" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NumstackPtyLtd/supaproxy-knowledge-sources"
+  }
 }
